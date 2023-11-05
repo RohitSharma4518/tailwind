@@ -1,0 +1,4 @@
+- Tailwind is a CSS utility first framework
+- This helps you design your website without leaving html document
+- Normally we write HTML code on one page and then link it with CSS on another file so switching is to be to write CSS.
+- utility classes are added to HTML tags and vallha it gets designed
